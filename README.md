@@ -44,6 +44,23 @@
 
 - 📰 [Resume](https://drive.google.com/file/d/1meTOSK6e50ZqamB5cnUQLOmO-y4uokgG/view)
 
+
+### **Technology Stack-**
+
+<div class="tech-logos">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">
+  <img width="23px" src="https://cdn.cdnlogo.com/logos/r/44/rxjs.svg" alt="rxjs">
+  <img width="50px" src="https://github.com/ngxs/store/raw/master/docs/assets/logo.png" alt="ngxs">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git">
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++">
+</div>
+
 <style>
   .social-links a {
     padding: 20px;
