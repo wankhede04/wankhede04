@@ -27,6 +27,23 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wankhede04&layout=compact" />
 </div>
 
+
+### **Let me introduce you about me-**
+
+- 🔭 I’m currently working on [Custom Component](https://github.com/wankhede04/custom-component).
+
+- 🌱 I’m currently learning `Python` and acquiring in-depth knowledge of `Angular`.
+
+- 🤔 I’m looking for help with Algorithms.
+
+- 💬 Ask me about the journey.
+
+- 📫 How to reach me: `wankhedevijay04@gmail.com`
+
+- ⚡ Fun fact: Domain name registration used to be free.
+
+- 📰 [Resume](https://drive.google.com/file/d/1meTOSK6e50ZqamB5cnUQLOmO-y4uokgG/view)
+
 <style>
   .social-links a {
     padding: 20px;
