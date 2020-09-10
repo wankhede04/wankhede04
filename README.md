@@ -43,6 +43,8 @@
 
 - 📰 [Resume](https://drive.google.com/file/d/1meTOSK6e50ZqamB5cnUQLOmO-y4uokgG/view)
 
+- [Profile](https://wankhede04.github.io/profile/)
+
 
 ### **Technology Stack-**
 
