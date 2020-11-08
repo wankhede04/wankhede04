@@ -41,7 +41,7 @@
 
 - ⚡ Fun fact: Domain name registration used to be free.
 
-- 📰 [Resume](https://drive.google.com/file/d/1meTOSK6e50ZqamB5cnUQLOmO-y4uokgG/view)
+- 📰 [Resume](https://drive.google.com/file/d/17iiWgj2EpqzedV9Faajf3LLTKNSZ71OB/view)
 
 - [Profile](https://wankhede04.github.io/profile/)
 
@@ -54,6 +54,7 @@
   <code><img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
   <code><img width="30px" src="https://cdn.cdnlogo.com/logos/r/44/rxjs.svg" alt="rxjs"></code>
   <code><img width="90px" src="https://github.com/ngxs/store/raw/master/docs/assets/logo.png" alt="ngxs"></code>
+  <code><img width="30px" src="https://miro.medium.com/max/700/0*yqbRInqX0ZRUlVS0" alt="Solidity"></code>
   <code><img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
   <code><img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask"></code>
   <code><img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
