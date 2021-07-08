@@ -29,19 +29,13 @@
 
 ### **Let me introduce you about me-**
 
-- 🔭 I’m currently working on [Custom Component](https://github.com/wankhede04/custom-component).
-
-- 🌱 I’m currently learning `Python` and acquiring in-depth knowledge of `Angular`.
+<strong>
+  Experienced Solutions Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Solidity, DeFi, Ethereum  and Polygon chains, Angular, Typescript, Linux, Shell scripts.
+</strong>
 
 - 🤔 I’m looking for help with Algorithms.
 
-- 💬 Ask me about the journey.
-
-- 📫 How to reach me: `wankhedevijay04@gmail.com`
-
 - ⚡ Fun fact: Domain name registration used to be free.
-
-- 📰 [Resume](https://drive.google.com/file/d/17iiWgj2EpqzedV9Faajf3LLTKNSZ71OB/view)
 
 - [Profile](https://wankhede04.github.io/profile/)
 
